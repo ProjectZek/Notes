@@ -37,3 +37,6 @@ Sourced from [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch
 
 > * Being killed by another player in a duel will now cause you to re-spawn with zero mana.
 
+**MARCH 29, 2000** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20000329.html)
+
+> * Area Effect "Fear" spells will no longer work in PvP. This affects a bard song, as well as the Cleric "Wave of Fear" spell.
