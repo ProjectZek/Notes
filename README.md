@@ -1,8 +1,10 @@
 # Patch notes regarding PvP changes
 
-Sourced from http://www.tski.co.jp/baldio/patch/
+Sourced from [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/).
 
-JUNE 7, 1999 - [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/19990607.html).
+## 1999
+
+**JUNE 7, 1999** - [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/19990607.html).
 
 > * Charmed and Feared characters can no longer use skills.
 > * The appropriate text message is given while attempting to attack while charmed.
