@@ -22,3 +22,18 @@ Sourced from [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch
 **DECEMBER 21, 1999** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/19991221.html)
 
 > * In addition, it is now possible to cast Cancel Magic on non-grouped players on the PvP and PvP-teams servers.
+
+## 2000
+
+**FEBRUARY 3, 2000** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20000203.html)
+
+> Customers on the PvP-Teams servers have been plagued by a tactic known as "Bind Rushing". Casters would bind themselves in a hostile area or dungeon, and attack everyone of an opposing race in the area. Sooner or later the caster would die. They would then respawn, memorize a few spells, then jump back in to attack their wounded opponents.
+
+>As a first step in combating this practice and improving life for those on the PvP-Servers, casters will now respawn with zero mana after being killed by another player in a duel or open combat.
+
+>This code is new for those on Tallon and Vallon Zek. It has been in place for some time on Rallos Zek and works very well there.
+
+**FEBRUARY 23, 2000** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20000223.html)
+
+> * Being killed by another player in a duel will now cause you to re-spawn with zero mana.
+
