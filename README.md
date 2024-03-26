@@ -18,3 +18,7 @@ Sourced from [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch
 **SEPTEMBER 28, 1999** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/19990928.html)
 
 > * Pet damage inflicted during PvP combat has been slightly reduced.
+
+**DECEMBER 21, 1999** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/19991221.html)
+
+> * In addition, it is now possible to cast Cancel Magic on non-grouped players on the PvP and PvP-teams servers.
