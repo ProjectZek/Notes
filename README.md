@@ -14,3 +14,7 @@ Sourced from [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch
 
 > * A player under the effect of charm or fear can no longer open their spellbook or sit in order to escape the effects of these spells.
 > * In order to make PVP combat between spellcasters and melee types more viable some changes to PVP spell effects have been made. All damage spells cast in PVP combat will do less damage to the PC than the same spell would do to an NPC. When a PC is under the effect of a root-type spell there is a 20% chance that they will break free when a direct damage spell is cast upon them.
+
+**SEPTEMBER 28, 1999** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/19990928.html)
+
+> * Pet damage inflicted during PvP combat has been slightly reduced.
