@@ -56,4 +56,12 @@ Sanctuary Levels: Characters below level six will not be able to engage in PvP c
 
 > De-Leveling: Characters that lose levels will only retain the combat skills of a character two levels higher. This means that if a character of level 10 somehow loses 5 levels, that character will only have skills that would be available to a 7th level character. This change will apply to all servers (it has to, code-wise). So the two level buffer is there to make certain that people that lose levels during normal gameplay will be minimally affected (hopefully not affected at all), while those that purposefully lose levels with the intent of causing other players grief will find themselves at no great advantage.
 
-> These are the first of the things that we plan to. We are taking a careful, step-by-step approach to changes whenever we can, and we have other changes planned for upcoming patches. 
+> These are the first of the things that we plan to. We are taking a careful, step-by-step approach to changes whenever we can, and we have other changes planned for upcoming patches.
+
+**MAY 31, 2001** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20010531.html)
+
+> *Resist-debuffs will do 1.5 times their normal value for PvP encounters. In other words, if the spell did -60MR in PvP before, it does -90MR in PvP now. PvE (combat versus NPCs) remains unaffected.
+> * Faction-loss for PvP kills on Vallon and Tallon now only occur against factions within the hometown of the person killed. In other words, if you kill an Erudite in Erudin, you will only lose faction with the factions in Erudin, not the factions in Paineel.
+> * Turning in the Tomb of Order and Discord will have no effect on Vallon and Tallon.
+> *On all PvP servers, only the person who gets the killing-blow in PvP combat will have looting rights. We would prefer to implement some sort of "majority damage" logic however this should solve most of the issues associated with uninvolved players "ninja-looting" the loser in PvP encounters.
+
