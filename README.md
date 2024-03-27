@@ -99,3 +99,9 @@ Sanctuary Levels: Characters below level six will not be able to engage in PvP c
 > * Guards, when seeing PCs in combat, will now attack the one that they like the least (the one with the lowest appropriate faction). If all the PCs involved are highly regarded (have very high faction) the guards will allow them to resolve their own issues without interfering.
 > * Guards should also refrain from attacking PCs that are attacked by pets of any sort.
 > * Sullon Zek now has an across the board experience bonus of 20%, and the experience loss on all deaths on Sullon Zek is now 50% less.
+
+**DECEMBER 4, 2001** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20011107.html)
+
+> * PvP looting will now display to the group.
+> * Empty corpses will no longer disappear when looted by an enemy player, they will decay at the normal rate for empty corpses.
+> * Guards in 'guard zones', such as cities, will continue to protect characters that they find the least offensive (the one with the highest faction). But guards in outdoor zones will be less likely to join in a fight. They will only come to the aid of people that they like. Otherwise they will not get involved in PvP combat.
