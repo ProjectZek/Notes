@@ -40,3 +40,9 @@ Sourced from [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch
 **MARCH 29, 2000** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20000329.html)
 
 > * Area Effect "Fear" spells will no longer work in PvP. This affects a bard song, as well as the Cleric "Wave of Fear" spell.
+
+## 2001
+
+**FEBRUARY 21, 2001** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20010221a.html)
+
+> * Due to the recent improvements to "Harmtouch", it is doing much more damage than it would before and unbalances PvP. As such it will now do less damage in PvP (68% of PvE, down from 80%). In addition, Shadowknights on the PvP servers were routinely killing themselves via non-XP losing means and attacking other players with Harmtouch immediately upon respawn. In order to address this situation, Harmtouch is no longer automatically "recharged" by death on the PvP Servers.
