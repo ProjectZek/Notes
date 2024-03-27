@@ -71,3 +71,31 @@ Sanctuary Levels: Characters below level six will not be able to engage in PvP c
 > * When a player becomes invisible (or hides successfully) every other player that had them targeted will lose their target. This is true for all servers, but has the greatest implications on PvP servers. The use of spells that allow you to see through invisibility will prevent you from losing your target if that target hides or goes invisible.
 > *Faction hits on Rallos Zek: Killing a person in one of his or her home cities will cause a faction hit with residents of that city.
 
+**JULY 24, 2001** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20010724.html)
+
+> * There are no faction hits for killing half-elves in any city.
+> * If an Erudite of Paineel is killed in Paineel the killer takes a faction hit (existing rule).
+> * If an Erudite of Erudin is killed in Erudin the killer takes a faction hit (new rule).
+> * Bards can't cast harmful spells on boats.
+> * If a character kills a higher level character, the higher level character will always lose experience. This is in addition to the fact that any player killed within the + or - 5 level range will lose experience.
+> * Goods and Neutrals will now be able to turn in Greater Insignias for a Magician only summon corpse potion usable only at levels over 45th.
+> * Characters under level 6 will no longer be immune to PvP in many adventure zones. Players will be notified when they enter such zones.
+
+**AUGUST 15, 2001** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20010815.html)
+
+> * Changed the way resists are calculated when a Player Character casts a spell on another Player Character on Sullon Zek. Resist modifiers based on level will now be more smoothly distributed and will allow lower level characters a slightly better chance to land spells on higher level characters. At the same time giving lower level characters a slightly better chance to resist spells cast on them by higher level characters.
+> * Characters below 6th level cannot be pick pocketed in any zone.
+> * Guards have a better chance of aggro'ing a rogue that fails at picking pockets near guards.
+
+**AUGUST 22, 2001** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20010822.html)
+
+> * The Resist code changes we made with the last patch should be working properly now. Here is the text about that change:
+"Changed the way resists are calculated when a Player Character casts a spell on another Player Character on Sullon Zek. Resist modifiers based on level will now be more smoothly distributed and will allow lower level characters a slightly better chance to land spells on higher level characters. At the same time giving lower level characters a slightly better chance to resist spells cast on them by higher level characters."
+> * Cancel Magic spells should now work across teams.
+> * Characters should no longer disappear when Mesmerized or stunned.
+
+**NOVEMBER 7, 2001** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20011107.html)
+
+> * Guards, when seeing PCs in combat, will now attack the one that they like the least (the one with the lowest appropriate faction). If all the PCs involved are highly regarded (have very high faction) the guards will allow them to resolve their own issues without interfering.
+> * Guards should also refrain from attacking PCs that are attacked by pets of any sort.
+> * Sullon Zek now has an across the board experience bonus of 20%, and the experience loss on all deaths on Sullon Zek is now 50% less.
