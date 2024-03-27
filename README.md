@@ -46,3 +46,14 @@ Sourced from [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch
 **FEBRUARY 21, 2001** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20010221a.html)
 
 > * Due to the recent improvements to "Harmtouch", it is doing much more damage than it would before and unbalances PvP. As such it will now do less damage in PvP (68% of PvE, down from 80%). In addition, Shadowknights on the PvP servers were routinely killing themselves via non-XP losing means and attacking other players with Harmtouch immediately upon respawn. In order to address this situation, Harmtouch is no longer automatically "recharged" by death on the PvP Servers.
+
+**MAY 8, 2001** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20010508.html)
+
+> We have made the first of our upcoming changes to the PvP aspects of EverQuest:
+
+> Consider: /Consider will only have three results when used to consider a Player Character. The character will show as 'green' if he is below the range that allows you to attack him. The character will show as 'white/black' if he is within your ability to attack. And the character will show as 'red' if he is above your range. This will only take effect on PvP servers.
+Sanctuary Levels: Characters below level six will not be able to engage in PvP combat, unless they take part in a Guild War, duel or use the Arena. This will, obviously, only take place on PvP servers.
+
+> De-Leveling: Characters that lose levels will only retain the combat skills of a character two levels higher. This means that if a character of level 10 somehow loses 5 levels, that character will only have skills that would be available to a 7th level character. This change will apply to all servers (it has to, code-wise). So the two level buffer is there to make certain that people that lose levels during normal gameplay will be minimally affected (hopefully not affected at all), while those that purposefully lose levels with the intent of causing other players grief will find themselves at no great advantage.
+
+> These are the first of the things that we plan to. We are taking a careful, step-by-step approach to changes whenever we can, and we have other changes planned for upcoming patches. 
