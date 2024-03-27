@@ -65,3 +65,9 @@ Sanctuary Levels: Characters below level six will not be able to engage in PvP c
 > * Turning in the Tomb of Order and Discord will have no effect on Vallon and Tallon.
 > *On all PvP servers, only the person who gets the killing-blow in PvP combat will have looting rights. We would prefer to implement some sort of "majority damage" logic however this should solve most of the issues associated with uninvolved players "ninja-looting" the loser in PvP encounters.
 
+**JUNE 27, 2001** [EverQuest Patch History Search](http://www.tski.co.jp/baldio/patch/20010627.html)
+
+> * If you go link dead on a PvP server and are killed you can still be looted.
+> * When a player becomes invisible (or hides successfully) every other player that had them targeted will lose their target. This is true for all servers, but has the greatest implications on PvP servers. The use of spells that allow you to see through invisibility will prevent you from losing your target if that target hides or goes invisible.
+> *Faction hits on Rallos Zek: Killing a person in one of his or her home cities will cause a faction hit with residents of that city.
+
